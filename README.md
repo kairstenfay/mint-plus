@@ -6,10 +6,10 @@ An interactive, Jupyter notebook for viewing exported data from Mint.
 
 I built this Jupyter notebook to view my earned and unearned income over time.
 
-To use this notebook, you must create a folder within this repo named `data/` and put the following CSVs inside of it:
-* An export of your Income trends from Mint, named `data/income.csv`
-* An export of your Spending trends from Mint, named `data/spending.csv`
-* An export of your Net Worth trends from Mint, named `data/net_worth.csv`
+To use this notebook, you must put the following data exports from Mint inside the `data/` directory in this repo:
+* your Income trends over time, named `data/income.csv`
+* your Spending trends over time, named `data/spending.csv`
+* your Net Worth trends over time, named `data/net_worth.csv`
 
 # Requirements
 The following packages are required to run this Jupyter notebook:
@@ -18,4 +18,3 @@ The following packages are required to run this Jupyter notebook:
 * jupyter
 
 You may install these as a conda environment with the provided `environment.yml` file.
-
