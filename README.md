@@ -12,7 +12,8 @@ To use this notebook, you must put the following data exports from Mint inside t
 * your Net Worth trends over time, named `data/net_worth.csv`
 
 # Requirements
-The following packages are required to run this Jupyter notebook:
+Python 3.6+ is required to run this Jupyter notebook.
+The following python packages are also required:
 * pandas
 * seaborn
 * jupyter
